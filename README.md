@@ -1,10 +1,11 @@
-### Oii! Sou Maria Eduarda 👋
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76094&width=435&lines=+Oii!+Sou+Maria+Eduarda+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 - 🔭 Tenho interesse na área de back-end, cibersegurança e desenvolvimento de jogos
 - 🌱 Estou aprendendo Java, C# e Python
 - 😄 Pronouns: ela/dela
 
 <div> 
+
 
   <a href="https://www.instagram.com/eduardaazenha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "pireseduarda526@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
