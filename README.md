@@ -1,4 +1,4 @@
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76094&width=435&lines=+Oii!+Sou+Maria+Eduarda+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31994b&width=435&lines=+Oii!+Sou+Maria+Eduarda+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 - 🔭 Tenho interesse na área de análise de malware e pesquisa de vulnerabilidades 
 - 🌱 Gosto de assuntos relacionados baixo nível e engenharia reversa 
